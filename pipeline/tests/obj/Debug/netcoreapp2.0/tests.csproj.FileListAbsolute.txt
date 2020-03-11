@@ -1,0 +1,17 @@
+C:\GitHub\pipeline\tests\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\GitHub\pipeline\tests\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\GitHub\pipeline\tests\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\GitHub\pipeline\tests\bin\Debug\netcoreapp2.0\tests.deps.json
+C:\GitHub\pipeline\tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.json
+C:\GitHub\pipeline\tests\bin\Debug\netcoreapp2.0\tests.runtimeconfig.dev.json
+C:\GitHub\pipeline\tests\bin\Debug\netcoreapp2.0\tests.dll
+C:\GitHub\pipeline\tests\bin\Debug\netcoreapp2.0\tests.pdb
+C:\GitHub\pipeline\tests\bin\Debug\netcoreapp2.0\api.dll
+C:\GitHub\pipeline\tests\bin\Debug\netcoreapp2.0\api.pdb
+C:\GitHub\pipeline\tests\obj\Debug\netcoreapp2.0\tests.csprojAssemblyReference.cache
+C:\GitHub\pipeline\tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfoInputs.cache
+C:\GitHub\pipeline\tests\obj\Debug\netcoreapp2.0\tests.AssemblyInfo.cs
+C:\GitHub\pipeline\tests\obj\Debug\netcoreapp2.0\tests.csproj.CopyComplete
+C:\GitHub\pipeline\tests\obj\Debug\netcoreapp2.0\tests.dll
+C:\GitHub\pipeline\tests\obj\Debug\netcoreapp2.0\tests.pdb
+C:\GitHub\pipeline\tests\obj\Debug\netcoreapp2.0\tests.csproj.CoreCompileInputs.cache

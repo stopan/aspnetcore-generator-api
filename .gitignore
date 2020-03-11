@@ -3,3 +3,4 @@
 ################################################################################
 
 /pipeline/tests/bin/Debug/netcoreapp2.0
+/pipeline/.vs/generator/v15/Server/sqlite3
