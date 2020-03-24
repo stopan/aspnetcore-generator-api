@@ -1,0 +1,14 @@
+C:\GIT\integration\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\GIT\integration\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\GIT\integration\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\GIT\integration\bin\Debug\netcoreapp2.0\integration.deps.json
+C:\GIT\integration\bin\Debug\netcoreapp2.0\integration.runtimeconfig.json
+C:\GIT\integration\bin\Debug\netcoreapp2.0\integration.runtimeconfig.dev.json
+C:\GIT\integration\bin\Debug\netcoreapp2.0\integration.dll
+C:\GIT\integration\bin\Debug\netcoreapp2.0\integration.pdb
+C:\GIT\integration\obj\Debug\netcoreapp2.0\integration.csprojAssemblyReference.cache
+C:\GIT\integration\obj\Debug\netcoreapp2.0\integration.AssemblyInfoInputs.cache
+C:\GIT\integration\obj\Debug\netcoreapp2.0\integration.AssemblyInfo.cs
+C:\GIT\integration\obj\Debug\netcoreapp2.0\integration.dll
+C:\GIT\integration\obj\Debug\netcoreapp2.0\integration.pdb
+C:\GIT\integration\obj\Debug\netcoreapp2.0\integration.csproj.CoreCompileInputs.cache
